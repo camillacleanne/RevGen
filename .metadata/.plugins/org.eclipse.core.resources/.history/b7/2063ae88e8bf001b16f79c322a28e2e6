@@ -1,0 +1,22 @@
+package aula3;
+
+public class pessoa {
+	//tipificar parametros da classe pessoa
+	String nome;
+	String endereco;
+	long cep;
+	String tel;
+	String email;
+	
+	void mostrarDetalhes() {
+		//exibir parametros populados no metodo
+	System.out.println("**********INFORMAÇÕES DO CLIENTE*********");
+		System.out.println("O NOME DO CLIENTE É:", nome);
+		System.out.println("O ENDEREÇO DA PESSOA CLIENTE É:", endereco);
+		System.out.println("O ENDEREÇO DA PESSOA CLIENTE É:", cep);
+		System.out.println("O TELEFONE DA PESSOA CLIENTE É:", tel);
+		System.out.println("O TELEFONE DA PESSOA CLIENTE É:", email);
+	}
+	
+
+}

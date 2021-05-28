@@ -1,0 +1,18 @@
+package aula3;
+
+public class TestarExtrato {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//instanciar classe ContaCorrente para criar um novo objeto tipo ContaCorrente
+		ContaCorrente conta1 = new ContaCorrente();
+		
+		//populando dados
+		detalhes.nome ="liso";
+		detalhes.numConta ="00000001";
+		detalhes.agencia ="1111222";
+		detalhes.pix ="liso@demais.brasil.com";
+		detalhes.saldo ="1";
+	}
+
+}

@@ -1,0 +1,19 @@
+package aula1;
+
+import java.util.Scanner;
+
+public class exercicio4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		/*
+		 * 2. Escreva um sistema que leia três números inteiros e positivos (A, B, C) e
+		 * calcule a seguinte expressão:
+		 */
+		Scanner sc = new Scanner(System.in);
+
+		System.out.println("Digite a quantidade de dias de vida voce tem");
+
+	}
+
+}

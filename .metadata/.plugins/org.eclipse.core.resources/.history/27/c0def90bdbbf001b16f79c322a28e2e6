@@ -1,0 +1,19 @@
+package aula3;
+
+public class pessoa {
+	String nome;
+	String endereco;
+	Integer cep;
+	Integer tel;
+	String email;
+	
+	void mostrarDetalhes() {
+		System.out.println(nome);
+		System.out.println(endereco);
+		System.out.println(cep);
+		System.out.println(tel);
+		System.out.println(email);
+	}
+	
+
+}
